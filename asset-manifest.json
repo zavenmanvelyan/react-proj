@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-proj/static/css/main.41de099f.chunk.css",
+    "main.js": "/react-proj/static/js/main.0310ee12.chunk.js",
+    "main.js.map": "/react-proj/static/js/main.0310ee12.chunk.js.map",
+    "runtime~main.js": "/react-proj/static/js/runtime~main.ae4bc9f3.js",
+    "runtime~main.js.map": "/react-proj/static/js/runtime~main.ae4bc9f3.js.map",
+    "static/js/2.ff3be1aa.chunk.js": "/react-proj/static/js/2.ff3be1aa.chunk.js",
+    "static/js/2.ff3be1aa.chunk.js.map": "/react-proj/static/js/2.ff3be1aa.chunk.js.map",
+    "static/css/3.193b8085.chunk.css": "/react-proj/static/css/3.193b8085.chunk.css",
+    "static/js/3.49e786ab.chunk.js": "/react-proj/static/js/3.49e786ab.chunk.js",
+    "static/js/3.49e786ab.chunk.js.map": "/react-proj/static/js/3.49e786ab.chunk.js.map",
+    "static/css/4.338b7556.chunk.css": "/react-proj/static/css/4.338b7556.chunk.css",
+    "static/js/4.cbeb1dae.chunk.js": "/react-proj/static/js/4.cbeb1dae.chunk.js",
+    "static/js/4.cbeb1dae.chunk.js.map": "/react-proj/static/js/4.cbeb1dae.chunk.js.map",
+    "index.html": "/react-proj/index.html",
+    "precache-manifest.50e2fef4098706d7089c161e550c0280.js": "/react-proj/precache-manifest.50e2fef4098706d7089c161e550c0280.js",
+    "service-worker.js": "/react-proj/service-worker.js",
+    "static/css/3.193b8085.chunk.css.map": "/react-proj/static/css/3.193b8085.chunk.css.map",
+    "static/css/4.338b7556.chunk.css.map": "/react-proj/static/css/4.338b7556.chunk.css.map",
+    "static/css/main.41de099f.chunk.css.map": "/react-proj/static/css/main.41de099f.chunk.css.map",
+    "static/media/Spinner-1s-200px.svg": "/react-proj/static/media/Spinner-1s-200px.9064981b.svg",
+    "static/media/user.jpg": "/react-proj/static/media/user.d451ffa5.jpg"
+  }
+}
