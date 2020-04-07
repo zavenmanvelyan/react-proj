@@ -1,0 +1,8 @@
+.styledButton{
+    padding:2px;
+    border:1px dotted black;
+}
+.selectedPage{
+    font-weight: bold;
+    border:1px solid black;
+}
